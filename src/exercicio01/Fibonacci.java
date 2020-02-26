@@ -21,6 +21,7 @@ public class Fibonacci {
      */
     public int[] getSequenciaFibonacciDe(int tamanho) {
         // TODO: implemente o código deste método
+        int n;
         return null;
     }
 
